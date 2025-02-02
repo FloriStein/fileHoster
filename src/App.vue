@@ -4,6 +4,7 @@ import Todos from './components/Todos.vue'
 
 <template>
   <main>
+    <div>test</div>
     <Todos />
   </main>
 </template>
